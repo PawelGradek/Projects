@@ -1,2 +1,2 @@
 # Projects
-Various projects that I did during my studies
+Various projects that I did 
