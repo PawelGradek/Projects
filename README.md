@@ -23,5 +23,4 @@ Author: Paweł Gradek,
 e-mail adress: pawelgradek@gmail.com
 
 ## License
-MIT
 * [MIT](LICENSE.md)
