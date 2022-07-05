@@ -12,7 +12,7 @@ for the second-order object.
 
 ## Requirements:
 Python 3.9.0,
-detailed requirements are given in the Readme.md file in each project.
+Detailed requirements are given in the Readme.md file in each project.
 
 ## Setup
 Follow the instructions to run a specific project
