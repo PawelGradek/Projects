@@ -14,7 +14,7 @@ Python 3.9.0,
 Libraries: random, matplotlib
 
 ## Setup
-To run this project, run the files: MutationsAndCrosses.py
+To run this project, run the file: MutationsAndCrosses.py
 
 ## Information about author
 Author: Paweł Gradek,
